@@ -325,7 +325,7 @@ $(document).ready(function () {
         //     datatype: "json",
         //     success: function (data) {
                 //var roX = JSON.parse(data);
-                var roX = {"s2_i_t":"Select the amount of Gems","s2_rb_t":"Selected Amount","s2_bt":"Proceed","jsra":"2500","jsri":"assets\/img\/bjbbh-removebg-preview.png","r1":"2500","r2":"4200","r3":"8250","r4":"13500","ri1":"assets\/img\/bjbbh-removebg-preview.png","ri2":"assets\/img\/bjbbh-removebg-preview.png","ri3":"assets\/img\/bjbbh-removebg-preview.png","ri4":"assets\/img\/bjbbh-removebg-preview.png","rl1":"Dices","rl2":"Dices","rl3":"Dices","rl4":"Dices"}
+                var roX = {"s2_i_t":"Select the amount of Gems","s2_rb_t":"Selected Amount","s2_bt":"Proceed","jsra":"2500","jsri":"assets\/https://i.imgur.com/oEc4Go0.png","r1":"2500","r2":"4200","r3":"8250","r4":"13500","ri1":"assets\/https://i.imgur.com/oEc4Go0.png","ri2":"assets\/https://i.imgur.com/oEc4Go0.png","ri3":"assets\/https://i.imgur.com/oEc4Go0.png","ri4":"assets\/https://i.imgur.com/oEc4Go0.png","rl1":"Dices","rl2":"Dices","rl3":"Dices","rl4":"Dices"}
 
 
                 gS("gerr", function (src) {
